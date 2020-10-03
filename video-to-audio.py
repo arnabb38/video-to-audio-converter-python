@@ -9,6 +9,8 @@ from tkinter.filedialog import askopenfilename
 Tk().withdraw()
 filelocation = askopenfilename()
 
+print('Conversion in progress...')
+
 basename = os.path.basename(filelocation)
 
 filename = os.path.splitext(basename)[0]
@@ -18,4 +20,4 @@ audio = video.audio
 
 audio.write_audiofile(filename+".mp3")
 
-print('Conversion Done!')
+print('Conversion Done Successfully!')
