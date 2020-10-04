@@ -1,10 +1,12 @@
 # Video to Audio Converter using Python 3!
 
+
 ## Prerequisites
 
 - Python 3
 - PIP 3
 - tkinter
+
 
 ## Installation
 
@@ -17,3 +19,15 @@ sudo apt-get install python3-tk
 pip install -r requirements.txt
 ```
 
+
+## How to use
+
+- After successful Installation process, Run the Python script using:
+```
+python video-to-audio.py
+```
+- Select the Video file from directory.
+
+- Wait for conversion process to complete.
+
+- Converted file can be found in the current script directory.
