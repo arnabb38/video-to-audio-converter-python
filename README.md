@@ -31,3 +31,11 @@ python video-to-audio.py
 - Wait for conversion process to complete.
 
 - Converted file can be found in the current script directory.
+
+
+## Author
+
+### Arnab Basak
+- [x] Linkedin: [@arnab-basak](https://linkedin.com/in/arnab-basak)
+
+- [x] Github: [@arnabb38](https://github.com/arnabb38)
